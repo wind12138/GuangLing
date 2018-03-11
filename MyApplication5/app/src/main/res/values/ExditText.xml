@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExditText">
+        <attr name="swidth" format="dimension"/>
+        <attr name="sheight" format="dimension"/>
+    </declare-styleable>
+</resources>
